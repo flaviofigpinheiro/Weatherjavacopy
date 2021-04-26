@@ -30,7 +30,6 @@
         android:textSize="20sp"
         android:background="@drawable/edittextdesign"
         android:textColor="@color/black"
-        android:imeOptions="actionGo"
         android:id="@+id/searchCity"
         android:inputType="textAutoCorrect"
         android:gravity="center_vertical|center_horizontal"
